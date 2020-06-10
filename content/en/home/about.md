@@ -3,7 +3,7 @@ title: "About"
 
 weight: 8
 ---
-[![Me](img/Brandon1.jpg "Capilano River Canyon")]
+[!(img/Brandon1.jpg "Capilano River Canyon")]
 
 My name is **Brandon Williams** and I am a learning biologist and ecologist committed to research and the application and enrichment of these subjects for future generations. I am also an avid fly fisher, fly tyer,and love learning about lake entomoloogy, freshwater ecology and limnology.  I am a steward of the earths ecosystems and am motivated by the vision of being able to pass on the same experiences to my children as I have had with nature. I am a self motivated, driven, and self starting individual that has the capacity to lead others,inspire and think creatively.
 
