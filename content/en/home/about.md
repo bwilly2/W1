@@ -1,6 +1,6 @@
 ---
 title: "About"
-[![Storm](img/brandon.jpg)]
+![Storm](img/brandon.jpg)
 weight: 8
 ---
 
