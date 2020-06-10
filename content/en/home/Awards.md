@@ -1,9 +1,9 @@
 ---
 title: "Scholarships & Awards"
-image: brandonspeak.jpg
+
 weight: 8
 ---
-[!(img/brandonspeak1.jpg "TRU Awards")]
+!(img/brandonspeak1.jpg "TRU Awards")
 
 #### Scholarships
 * Geoscience B.C Scholarship - 2020
