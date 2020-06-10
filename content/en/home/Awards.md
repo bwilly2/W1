@@ -1,9 +1,9 @@
 ---
 title: "Scholarships & Awards"
-image: "brandonspeak1.jpg"
+
 weight: 8
 ---
-
+[![Me](img/brandonspeak1.jpg "TRU Masters Showcase")](https://www.flickr.com/photos/188881109@N08/albums/72157714633273313)
 
 #### Scholarships
 * Geoscience B.C Scholarship - 2020
