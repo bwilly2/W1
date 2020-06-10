@@ -1,6 +1,6 @@
 ---
 title: "Scholarships & Awards"
-image: brandonspeak1.jpg
+image: "brandonspeak1.jpg"
 weight: 8
 ---
 
