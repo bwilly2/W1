@@ -6,6 +6,7 @@ weight: 8
 [![Me](img/brandonspeak1.jpg "TRU Masters Showcase")](https://www.flickr.com/photos/188881109@N08/albums/72157714633273313)
 
 #### Scholarships
+* Ken Lepin Graduate Award - 2020
 * Geoscience B.C Scholarship - 2020
 * Society of Contaminated Sites Approved Professionals of B.C Scholarship - 2020
 * B.C. Technical Research Committee on Reclamation - Jake McDonald Memorial Scholarship - 2019
